@@ -1,10 +1,10 @@
 {
-  "annotation categories": [
+  "annotation_categories": [
       "Infected",
       "Non-infected"
   ],
   "labels": {
-    "protein labels": {
+    "protein_labels": {
       "Nucleoplasm": "Nucleoplasm",
       "Nuc membrane": "Nuclear membrane",
       "Nucleoli": "Nucleoli",
@@ -41,11 +41,11 @@
       "Cyt bodies": "Cytoplasmic bodies",
       "R&R": "Rods & Rings"  
     },
-    "exclusive labels": [
+    "exclusive_labels": [
         "Negative",
         "Unspecific",
         "SCV"
     ]
   },
-  "discard button": true
+  "discard_button": true
 }
