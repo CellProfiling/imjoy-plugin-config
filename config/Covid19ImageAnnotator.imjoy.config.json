@@ -1,0 +1,51 @@
+{
+  "annotation catogories": [
+      "Infected",
+      "Non-infected"
+  ],
+  "labels": {
+    "protein labels": {
+      "Nucleoplasm": "Nucleoplasm",
+      "Nuc membrane": "Nuclear membrane",
+      "Nucleoli": "Nucleoli",
+      "Nuc Fib C": "Nucleoli fibrillar center",
+      "Nucl speckles": "Nuclear speckles",
+      "Nuc bodies": "Nuclear bodies",
+      "Kinetochore": "Kinetochore",
+      "Mit chrom": "Mitotic chromosome",
+      "ER": "Endoplasmic reticulum",
+      "Golgi": "Golgi apparatus",
+      "Vesicles": "Vesicles",
+      "Peroxisomes": "Peroxisomes",
+      "Endosomes": "Endosomes",
+      "Lysosomes": "Lysosomes",
+      "Int Fil": "Intermediate filaments",
+      "Actin Fil": "Actin filaments",
+      "Focal Adh": "Focal adhesion sites",
+      "MTs": "Microtubules",
+      "MT ends": "Microtubule ends",
+      "Cyt bridge": "Cytokinetic bridge",
+      "Midbody": "Midbody",
+      "Midbody ring": "Midbody ring",
+      "Cl furrow": "Cleavage furrow",
+      "Spindle": "Mitotic spindle",
+      "Primary cilia": "Primary cilia",
+      "Satellites": "Centriolar satellite",
+      "Centrosome": "Centrosome",
+      "Lipid drop": "Lipid droplets",
+      "PM": "Plasma membrane",
+      "Junctions": "Cell Junctions",
+      "Mitochondria": "Mitochondria",
+      "Aggresome": "Aggresome",
+      "Cytosol": "Cytosol",
+      "Cyt bodies": "Cytoplasmic bodies",
+      "R&R": "Rods & Rings"  
+    },
+    "exclusive labels": [
+        "Negative",
+        "Unspecific",
+        "SCV"
+    ]
+  },
+  "discard button": true
+}
