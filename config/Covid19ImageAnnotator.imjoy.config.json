@@ -1,7 +1,7 @@
 {
   "annotation_categories": [
       "Infected",
-      "Non-infected"
+      "Non_infected"
   ],
   "labels": {
     "location_labels": {
