@@ -41,7 +41,7 @@
       "Cyt bodies": "Cytoplasmic bodies",
       "R&R": "Rods & Rings"  
     },
-    "single_cell_variation": ["SCV"],
+    "single_cell_variation": "SCV", 
     "exclusive_labels": [
         "Negative",
         "Unspecific"
