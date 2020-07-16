@@ -44,8 +44,7 @@
     "single_cell_variation": ["SCV"],
     "exclusive_labels": [
         "Negative",
-        "Unspecific",
-        "Discard"
+        "Unspecific"
     ]
   }
 }
