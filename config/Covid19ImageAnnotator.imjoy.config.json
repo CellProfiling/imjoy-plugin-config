@@ -4,7 +4,7 @@
       "Non-infected"
   ],
   "labels": {
-    "protein_labels": {
+    "location_labels": {
       "Nucleoplasm": "Nucleoplasm",
       "Nuc membrane": "Nuclear membrane",
       "Nucleoli": "Nucleoli",
