@@ -1,0 +1,26 @@
+{
+  "annotation_categories": [
+      "MicroNuclei Found?",
+      "Protein in MicroNuclei?"
+  ],
+  "labels": {
+    "location_labels": {
+      "Nucleoplasm": "Nucleoplasm"
+    },
+    "numerized_labels": {
+      "Nucleoplasm": 0
+    },   
+    "single_cell_variation": "SCV", 
+    "exclusive_labels": {
+      "MicroNuclei Found?": [
+        "Yes",
+        "No"
+      ],
+      "Protein in MicroNuclei?": [
+        "Yes(all)",
+        "Yes(some)",
+        "No"        
+      ]
+    } 
+  }
+}
